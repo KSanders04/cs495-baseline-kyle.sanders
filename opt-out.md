@@ -1,2 +1,2 @@
-#Opt-Out Statement
+# Opt-Out Statement
 I decided not to complete the tasks in step 3, option 2 for this assignment. The part that feels overwhelming to me right now is using python and testing. The reason python feels overwhelming to me right now is because I haven't usid python in a while and it would take me extra time to relearn the syntax. The reason why testing feels overwhelming to me right now is because testing is one of my weak points in programming. I plan to build confidence with testing since majority of companies look for programmers who feel comfortable with writing tests and writing tests allows you to reduce any bugs that might be in your code.
